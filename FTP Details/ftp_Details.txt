@@ -1,0 +1,16 @@
+Domain: bkasinc.com
+| Ip: 208.91.199.152 (n)
+| HasCgi: y
+| UserName: bkasinc
+| PassWord: _Q.TWH@].[tz
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 80 MB
+| NameServer1: ns1.bh-25.webhostbox.net
+| NameServer2: ns2.bh-25.webhostbox.net
+| NameServer3: 
+| NameServer4: 
+| Contact Email: 
+| Package: rsdesyj8_80MB-2GB
+| Feature List: default
+| Language: en
